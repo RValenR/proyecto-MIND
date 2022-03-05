@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "proyecto-prueba-mind": {
+      "hosting": {
+        "project-MIND-web": [
+          "proyecto-prueba-mind"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "proyecto-prueba-mind"
+  }
+}
